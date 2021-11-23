@@ -1,4 +1,4 @@
-# linuxshare
+# linuxshare 复制以下内容直接粘贴运行
 
 echo "下载chfs ding ding.cfg 并映射当前目录到域名 具体看输出" 
 
